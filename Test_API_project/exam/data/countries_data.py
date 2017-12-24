@@ -1,4 +1,3 @@
-
 # Qatar
 CODE = 'qa'
 NAME = 'Qatar'

@@ -15,5 +15,4 @@ def test_GetCountryByCurrencyCode(app):
 
 def test_exist_current_code_in_GetCurrencyCodeByCurrencyName_response(app):
     currency_code_list = app.soap.get_currency_code_list(CURRENCY)
-    print currency_code_list
     assert (CURRENCY_CODE in currency_code_list), 'Currency code not found in list got by GetCurrencyCodeByCurrencyName method'

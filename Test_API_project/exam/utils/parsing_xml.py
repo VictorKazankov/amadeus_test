@@ -2,7 +2,7 @@
 
 from lxml import etree
 
-class ParsingXmlLibrary():
+class ParsingXml():
     def __init__(self):
         pass
 
