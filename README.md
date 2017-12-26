@@ -2,7 +2,7 @@
 
 This repo contains test framework intended for testing API methods on [www.webservicex.net](http://www.webservicex.net/country.asmx?WSDL) site
 
-#### Test framework have 4 components:
+#### Test framework has 4 components:
 
 * **fixture folder** has application.py file for rule interaction between tests, soap.py file with SoapHelper class and parsing xml class
 Here also client initialized for SoapHelper class and accesses in webservice methods by suds library
