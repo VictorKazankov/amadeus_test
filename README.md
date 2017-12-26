@@ -1,4 +1,4 @@
-# Test API project
+# Test API
 
 This repo contains test framework intended for testing API methods on [www.webservicex.net](http://www.webservicex.net/country.asmx?WSDL) site
 
