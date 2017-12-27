@@ -16,3 +16,5 @@ In fixture there is also soap.py file, which has accesses in webservice methods 
 * **utils folder** has parsing_xml.py file which has static methods implement xml parsing with the help of lxml library
 
 * **data folder** has countries_data.py with test data for validation of API work methods(present only Qatar country)
+
+Python version - 2.7.13
